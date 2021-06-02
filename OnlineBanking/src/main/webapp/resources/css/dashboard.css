@@ -1,0 +1,17 @@
+@import
+	url("https://netdna.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css");
+
+.content {
+	padding-left: 210px;
+	padding-top: 25px;
+	color: rgba(240, 16, 16, 0.788);
+	font-size: x-large;
+	border-color: aquamarine;
+}
+.bg {
+height: 80%; 
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+width: 80%;
+}
